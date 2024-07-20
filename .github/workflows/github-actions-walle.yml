@@ -12,7 +12,7 @@ jobs:
       - name: Auto approve
         uses: hmarr/auto-approve-action@v4 # Custom action for auto approval already available on marketplace
         # Perform the auto approve action only when the PR is raised by dependabot
-        if: github.actor == 'wall-e' || github.actor == 'wallyraju'
+        if: github.actor == 'wall-e' || github.actor == 'wallyraju' || github.actor == 'github-actions[bot]'
         env:
           # Create a personal access token and store it under the Secrets section of the particular repository
           # with the key "GITHUB_ACTIONS_TOKEN"
