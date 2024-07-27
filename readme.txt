@@ -1,14 +1,18 @@
 Team Echelon: 
 
 Members:
+
 Philippe Kabore - AWS Administrator
+
 Lavasha Holden - Scribe
+
 Developers: 
+Philippe Kabore
 Zachary Sinclair
 Matthew Herman
 Felix Arroyo
+Lavasha Holden
 Wally Bhupatiraju
-
 =====================================
 
 Application: Recipe Application
