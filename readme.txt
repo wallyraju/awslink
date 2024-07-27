@@ -67,6 +67,6 @@ So far we have noticed that the cost for running the application for the purpose
 Lessons Learned/Still learning
 
 1. We are able to copy the entire application from a team member's AWS account to the AWS account provided for the purpose of this class in under 60 minutes and have it up and running. 
-We ran into some issues with retrieing the data from the database back to the application front end, so for the purpose of the demo, we have used a static web page with a select few recipes.
+2. We ran into some issues with retrieing the data from the database back to the application front end, so for the purpose of the demo, we have used a static web page with a select few recipes.
 
 ========================================
